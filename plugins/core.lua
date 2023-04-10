@@ -20,6 +20,10 @@ return {
       return opts
     end,
   },
+  {
+    "Mofiqul/adwaita.nvim"
+  },
+
   -- You can disable default plugins as follows:
   -- { "max397574/better-escape.nvim", enabled = false },
   --
